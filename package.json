@@ -1,0 +1,7 @@
+{
+  "main": "main.ts",
+  "author": "ndelanou",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
